@@ -1,4 +1,4 @@
-<h1 align="center">Hi Salam, I'm Abul Kalam Azad</h1>
+<h1 align="center">Greetings, I'm Abul Kalam Azad</h1>
 <h3 align="center">Exploring all the possibilities with the new technology has to offer, a career in mobile app development can be immensely satisfying and fun.</h3>
 
 - 🔭 I’m currently working on [Microfin360 App](https://play.google.com/store/apps/details?id=com.datasoft.microfin360v2)
